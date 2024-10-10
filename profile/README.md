@@ -1,6 +1,5 @@
 ## Welcome to MatchLab!
 
-The MatchLab focuses on solving matching-based challenges in 3D vision by developing advanced techniques for invariant feature extraction and visual signal representation. Our work spans a broad range of computer vision tasks, including image and video classification, object recognition and tracking, visual surveillance, large-scale image retrieval, wide-baseline matching, face recognition, 3D reconstruction, and segmentation, among others.
-
+MatchLab is a research group focused on computer vision problems, in particular on tasks that require finding correspondences between images or videos i.e. matching, such as retrieval, localisation, 3D mapping, and recognition. We extensively use machine learning and deep learning in particular to advance fundamental research and engineer efficient systems for practical applications.
 
 For more information, please refer to our [site](https://www.imperial.ac.uk/matchlab).
